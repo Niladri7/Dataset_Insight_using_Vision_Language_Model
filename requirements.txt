@@ -1,0 +1,8 @@
+torch
+torchvision
+transformers
+Pillow
+chromadb
+ollama
+tqdm
+numpy
